@@ -1,5 +1,8 @@
-## Hi there 👋
+### Junior full stack developer
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_riad_9) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliiRiad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade)
 <!--
 **AliiRiad/AliiRiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
